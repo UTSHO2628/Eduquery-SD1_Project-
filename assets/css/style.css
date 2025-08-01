@@ -1,0 +1,9 @@
+/* Add your custom styles here */
+body {
+    background-color: #f8f9fa;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+}
