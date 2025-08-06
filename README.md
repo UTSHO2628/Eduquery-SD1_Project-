@@ -36,5 +36,5 @@ Here are the specific steps to get the project running on another computer:
 
   That's it! The project should now be running on the new computer. You can log in with the default admin user:
 
-   * Email: admin@eduquery.com
-   * Password: password
+   * Email: admin@example.com
+   * Password: your_secure_password
