@@ -1,6 +1,6 @@
 <?php
-include_once '../includes/init.php';
-checkAuth('teacher');
+include_once '../includes/init.php'; // init.php include kore jeita database connection, session, o nedded function load kore 
+checkAuth('teacher');  // check kore teacher kina 
 
 $assignment_id = $_GET['assignment_id'];
 
@@ -8,7 +8,7 @@ $assignment_id = $_GET['assignment_id'];
 $assignment = getAssignmentById($pdo, $assignment_id);
 
 // Fetch submissions for this assignment
-$submissions = getSubmissionsForAssignment($pdo, $assignment_id);
+$submissions = getSubmissionsForAssignment($pdo, $assignment_id); 
 ?>
 
 <!DOCTYPE html>
