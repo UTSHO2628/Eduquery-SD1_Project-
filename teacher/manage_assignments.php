@@ -5,7 +5,7 @@ checkAuth('teacher');
 $teacher_id = $_SESSION['user_id'];
 
 // Handle assignment deletion
-if (isset($_GET['delete_id'])) {
+if (isset($_GET['delete_id'])) {   // login kora teacher der id session theke neyoya hosse, jate assinment gula sudu sir dekhte pare and change korte pare
     $delete_id = $_GET['delete_id'];
     deleteAssignment($pdo, $delete_id, $teacher_id);
     header('Location: manage_assignments.php');
