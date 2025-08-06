@@ -1,5 +1,5 @@
 <?php
-include_once '../includes/init.php';
+include_once '../includes/init.php'; //init.php file import kora hoise, jatesession, database connection work start properly
 checkAuth('teacher');
 
 // Fetch all notices
