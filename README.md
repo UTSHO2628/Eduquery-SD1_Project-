@@ -1,4 +1,4 @@
-  " # Eduquery-SD1_Project " 
+" # Eduquery-SD1_Project " 
  ' Educational Query & Resource Management System '
 Here are the specific steps to get the project running on another computer:
   1. Install XAMPP
