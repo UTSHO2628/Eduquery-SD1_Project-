@@ -1,5 +1,25 @@
 " # Eduquery-SD1_Project " 
  ' Educational Query & Resource Management System '
+EduQuery is a web-based Educational Query & Resource Management System designed to streamline communication and resource sharing between students, teachers, and administrators in academic institutions. The system enables role-based access, allowing students to view notices, submit assignments, and check results; teachers to post notices, upload results, and manage assignments; and administrators to oversee the entire system. Developed using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap, EduQuery offers a responsive design, secure authentication, and a scalable architecture. The project enhances accessibility, reduces paperwork, and fosters an organized academic environment.
+ Objectives:
+	Develop a user-friendly web-based academic management platform.
+	Implement secure role-based authentication for Students, Teachers, and Admins.
+	Enable students to view notices, submit assignments, and check results.
+	Allow teachers to manage assignments, upload results, and post notices.
+	Provide admins with full control over user management and monitoring.
+	Store all academic data in a secure MySQL database.
+
+Algorithms:
+•	Role-Based Access Control (RBAC) for authentication.
+•	CRUD Operations for managing assignments, notices, and results.
+•	Password Hashing for secure user authentication.
+
+Tools and Technologies:
+•	Frontend: HTML5, CSS3, JavaScript, Bootstrap
+•	Backend: PHP
+•	Database: MySQL (via XAMPP
+
+
 Here are the specific steps to get the project running on another computer:
   1. Install XAMPP
 
@@ -39,3 +59,15 @@ Here are the specific steps to get the project running on another computer:
 
    * Email: admin@example.com
    * Password: your_secure_password
+
+Challenges:
+•	Initial database structuring took longer than expected.
+•	Managing session states for multiple roles required careful handling.
+
+Limitations:
+•	Currently limited to local hosting; no cloud deployment in this version.
+
+Future Work:
+•	Add notification system.
+•	Mobile app integration.
+•	Cloud hosting for remote access.
