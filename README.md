@@ -4,10 +4,15 @@ EduQuery is a web-based Educational Query & Resource Management System designed 
 
 Objectives:
 	Develop a user-friendly web-based academic management platform.
+
 	Implement secure role-based authentication for Students, Teachers, and Admins.
+
 	Enable students to view notices, submit assignments, and check results.
+
 	Allow teachers to manage assignments, upload results, and post notices.
+
 	Provide admins with full control over user management and monitoring.
+
 	Store all academic data in a secure MySQL database.
 
 Algorithms:
