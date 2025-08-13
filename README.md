@@ -17,8 +17,11 @@ Objectives:
 	Store all academic data in a secure MySQL database.
 
 Algorithms:
+
 •	Role-Based Access Control (RBAC) for authentication.
+
 •	CRUD Operations for managing assignments, notices, and results.
+
 •	Password Hashing for secure user authentication.
 
 Tools and Technologies:
