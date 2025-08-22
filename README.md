@@ -1,4 +1,4 @@
-" # Eduquery-SD1_Project " 
+ " # Eduquery-SD1_Project " 
  ' Educational Query & Resource Management System '
  
 EduQuery is a web-based Educational Query & Resource Management System designed to streamline communication and resource sharing between students, teachers, and administrators in academic institutions. The system enables role-based access, allowing students to view notices, submit assignments, and check results; teachers to post notices, upload results, and manage assignments; and administrators to oversee the entire system. Developed using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap, EduQuery offers a responsive design, secure authentication, and a scalable architecture. The project enhances accessibility, reduces paperwork, and fosters an organized academic environment.
