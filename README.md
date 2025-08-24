@@ -25,7 +25,9 @@ Algorithms:
 
 •	Password Hashing for secure user authentication.
 
+
 Tools and Technologies:
+
 •	Frontend: HTML5, CSS3, JavaScript, Bootstrap
 
 •	Backend: PHP
