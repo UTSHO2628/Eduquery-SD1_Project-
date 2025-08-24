@@ -27,7 +27,9 @@ Algorithms:
 
 Tools and Technologies:
 •	Frontend: HTML5, CSS3, JavaScript, Bootstrap
+
 •	Backend: PHP
+
 •	Database: MySQL (via XAMPP
 
 
