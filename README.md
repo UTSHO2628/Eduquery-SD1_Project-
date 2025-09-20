@@ -32,7 +32,7 @@ Tools and Technologies:
 
 •	Backend: PHP
 
-•	Database: MySQL (via XAMPP
+•	Database: MySQL (via XAMPP)
 
 
 Here are the specific steps to get the project running on another computer:
