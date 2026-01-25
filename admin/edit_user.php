@@ -4,7 +4,7 @@ checkAuth('admin');
 
 $user_id = $_GET['id'];
 
-// Handle form submission
+ // Handle form submission
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $fullName = $_POST['full_name'];
     $email = $_POST['email'];
