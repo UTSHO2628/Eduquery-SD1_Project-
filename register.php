@@ -1,5 +1,5 @@
 <?php
-include('includes/db.php'); // db.php file include kore, jeitate MySQL datbase connection($conn) set kora ase
+include('includes/db.php');  // db.php file include kore, jeitate MySQL datbase connection($conn) set kora ase.
 
 if (isset($_POST['register'])) {
     $name = $_POST['name'];
