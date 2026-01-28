@@ -1,5 +1,5 @@
 <?php
-include_once 'includes/init.php'; // Use the new init.php.
+include_once 'includes/init.php';  // Use the new init.php
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['register'])) {
     $fullName = $_POST['full_name'];
