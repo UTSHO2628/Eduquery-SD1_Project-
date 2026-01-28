@@ -4,7 +4,7 @@ include('includes/db.php'); // db.php file include kore, jeitate MySQL datbase c
 if (isset($_POST['register'])) {
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $password = password_hash($_POST['password'], PASSWORD_DEFAULT);  //password_hash(...) use kore password hash kore database a save kora hosse. aita sequre best practice 
+    $password = password_hash($_POST['password'], PASSWORD_DEFAULT);  // password_hash(...) use kore password hash kore database a save kora hosse. aita sequre best practice 
     $role = $_POST['role'];
 
     // Check if user already exists
