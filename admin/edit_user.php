@@ -16,7 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     exit();
 }
 
-// Fetch user data
+// Fetch user data.
 $user = getUserById($pdo, $user_id);
 ?>
 
