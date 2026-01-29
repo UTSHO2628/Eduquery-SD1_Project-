@@ -10,7 +10,7 @@ if (isset($_GET['delete_id'])) {
     exit();
 }
 
-// Fetch all users 
+// Fetch all users .
 $users = getAllUsers($pdo);
 ?>
 
