@@ -2,7 +2,7 @@
 include_once '../includes/init.php';
 checkAuth('admin');
 
-// Handle user deletion
+// Handle user deletion 
 if (isset($_GET['delete_id'])) {
     $delete_id = $_GET['delete_id'];
     deleteUser($pdo, $delete_id);
