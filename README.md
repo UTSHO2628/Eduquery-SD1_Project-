@@ -80,7 +80,7 @@ Challenges:
 •	Managing session states for multiple roles required careful handling.
 
 Limitations:
-•	Currently limited to local hosting; no cloud deployment in this version.
+•	Currently limited to local hosting; no cloud deployment in this version..
 
 Future Work:
 •	Add notification system.
