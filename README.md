@@ -7,7 +7,7 @@ Objectives:
 
 	Develop a user-friendly web-based academic management platform.
 
-	Implement secure role-based authentication for Students, Teachers, and Admins.....
+	Implement secure role-based authentication for Students, Teachers, and Admins......
 
 	Enable students to view notices, submit assignments, and check results.
 
